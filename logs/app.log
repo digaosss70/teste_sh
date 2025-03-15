@@ -1,0 +1,5 @@
+2025-03-15 11:10:15,538 - 2025-03-15 11:10:15,540 - c:\Program Files\Git\teste_sh\src\hello.py - 13 - DEBUG - This is a debug message
+2025-03-15 11:10:15,538 - 2025-03-15 11:10:15,541 - c:\Program Files\Git\teste_sh\src\hello.py - 14 - INFO - This is an info message
+2025-03-15 11:10:15,538 - 2025-03-15 11:10:15,541 - c:\Program Files\Git\teste_sh\src\hello.py - 15 - WARNING - This is an warning message
+2025-03-15 11:10:15,538 - 2025-03-15 11:10:15,541 - c:\Program Files\Git\teste_sh\src\hello.py - 16 - ERROR - This is an error message
+2025-03-15 11:10:15,538 - 2025-03-15 11:10:15,541 - c:\Program Files\Git\teste_sh\src\hello.py - 17 - CRITICAL - This is an critical message
